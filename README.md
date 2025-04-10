@@ -1,5 +1,5 @@
-<a href="https://zenn.dev/hungry_goat/articles"><img src="https://zenn.badge.nikaera.com/s/hungry_goat/articles?style=social" alt="hungry_goat articles" /></a>
-<a href="https://zenn.dev/hungry_goat"><img src="https://zenn.badge.nikaera.com/s/hungry_goat/likes?style=social" alt="hungry_goat likes" /></a>
+[![Articles](https://badgen.org/img/zenn/hungry_goat/articles?style=plastic)](https://zenn.dev/hungry_goat)
+[![Likes](https://badgen.org/img/zenn/hungry_goat/likes?style=plastic)](https://zenn.dev/hungry_goat)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shinya-hara&count_private=true&show_icons=true&theme=dracula" height="200px" />
@@ -15,8 +15,8 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,vuetify,react,next,remix,vite,vitest,tailwind,sass,nodejs,express,," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,vuetify,react,next,remix,vite,vitest,tailwind,astro,sass,nodejs,express," /> <br /><br />
 
 ## Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=github,bitbucket,vscode,aws,figma,sentry," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=github,githubactions,bitbucket,vscode,aws,figma,sentry," /> <br /><br />
